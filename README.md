@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+KadoViewer::Renderer.copyright 'Kaden Jenson', 'All rights reserved'
+```
 
 ## Development
 
